@@ -8,6 +8,6 @@ public class Apple {
 		System.out.println("this is test update");
 	}
 	public void myBranch(){
-		
+		System.out.println("this is test create merge branch");
 	}
 }
