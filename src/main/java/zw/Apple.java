@@ -7,4 +7,7 @@ public class Apple {
 	public void testUpdate(){
 		System.out.println("this is test update");
 	}
+	public void myBranch(){
+		
+	}
 }
