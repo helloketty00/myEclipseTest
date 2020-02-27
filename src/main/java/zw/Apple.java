@@ -5,6 +5,6 @@ public class Apple {
 		System.out.println("hello world");
 	}
 	public void testUpdate(){
-		
+		System.out.println("this is test update");
 	}
 }
